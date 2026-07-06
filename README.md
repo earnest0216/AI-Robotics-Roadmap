@@ -34,9 +34,10 @@
 
 ## Weekly Progress
 
-Week 1
+### Week 1 Progress
 
-- 建立 GitHub
-- 建立 Obsidian
-- 學習 Git
-- ESP32 Blink
+- [x] GitHub repository created
+- [x] Obsidian installed
+- [x] VS Code installed
+- [ ] First ESP32 test
+- [ ] First servo test
